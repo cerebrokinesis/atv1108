@@ -1,0 +1,26 @@
+{
+  "name": "atv1108",
+  "version": "1.0.0",
+  "description": "atv do dia 11 08",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerebrokinesis/atv1108.git"
+  },
+  "keywords": [
+    "servidor",
+    "http"
+  ],
+  "author": "Julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerebrokinesis/atv1108/issues"
+  },
+  "homepage": "https://github.com/cerebrokinesis/atv1108#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
